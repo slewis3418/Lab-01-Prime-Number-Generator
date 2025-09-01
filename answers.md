@@ -1,8 +1,8 @@
 # CMPS 6100 Lab 01
 ## Answers
 
-**Name:**_________________________
-
+**Name:**_________________________Sam Lewis
+**Sam Lewis**
 
 Place all written answers from `lab-01.md` here.
 
