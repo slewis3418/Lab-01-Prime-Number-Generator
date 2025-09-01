@@ -1,6 +1,6 @@
 """
 CMPS 6100  Lab 1
-Author: 
+Author: Sam Lewis
 """
 
 ### the only imports needed are here
